@@ -1,6 +1,6 @@
 # Do popular trading patterns, ICT and Smart Money setups have an edge?
 
-Code and results behind the article *Why Most Trading Strategies You See on Social Media Lose Money*.
+Code and results behind the article *ICT vs Smart Money: Do They Really Work? 87,563 Backtested Trades Say No*.
 
 **Short answer: in 87,563 test trades, none of the tested patterns or models made money after costs.**
 
