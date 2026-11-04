@@ -1,0 +1,9 @@
+Survivorship: mean -10.3R, at or above 0R: 123, 10R or more: 23, win rate 60%+: 29 of 1000
+  histogram -50..40 step 10: [1, 28, 154, 361, 333, 100, 23, 0, 0]
+Spread: $2: -0.130R, $3: -0.073R, $4: -0.045R, $5: -0.028R, $6: -0.017R, $8: -0.003R, $10: +0.006R, $15: +0.017R, $20: +0.023R; break-even stop $8.5
+Drawdown: risk 0.5% per trade -> 33.3% of accounts reach -10%
+Drawdown: risk 1% per trade -> 71.0% of accounts reach -10%
+Drawdown: risk 2% per trade -> 88.0% of accounts reach -10%
+Drawdown: risk 3% per trade -> 93.2% of accounts reach -10%
+Drawdown: risk 5% per trade -> 96.8% of accounts reach -10%
+Streaks: a run of 7+ losses in 200 trades happens in 55% of cases
